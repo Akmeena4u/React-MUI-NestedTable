@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akmeena4u/React-MUI-NestedTable/tree/main/static/css/main.e6c13ad2.css",
+    "main.js": "/Akmeena4u/React-MUI-NestedTable/tree/main/static/js/main.e4bdde2b.js",
+    "static/js/453.68693753.chunk.js": "/Akmeena4u/React-MUI-NestedTable/tree/main/static/js/453.68693753.chunk.js",
+    "index.html": "/Akmeena4u/React-MUI-NestedTable/tree/main/index.html",
+    "main.e6c13ad2.css.map": "/Akmeena4u/React-MUI-NestedTable/tree/main/static/css/main.e6c13ad2.css.map",
+    "main.e4bdde2b.js.map": "/Akmeena4u/React-MUI-NestedTable/tree/main/static/js/main.e4bdde2b.js.map",
+    "453.68693753.chunk.js.map": "/Akmeena4u/React-MUI-NestedTable/tree/main/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e4bdde2b.js"
+  ]
+}
