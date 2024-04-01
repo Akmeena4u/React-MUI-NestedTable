@@ -84,7 +84,7 @@ const App = () => {
             Create Workorder
           </Typography>
           {/* Right-aligned save button */}
-          <Button variant="contained" color="primary" onClick={handleSave}>
+          <Button variant="contained" color="primary"  sx={{ backgroundColor: '#0074D9' }} onClick={handleSave}>
             Save
           </Button>
         </Toolbar>
@@ -94,7 +94,7 @@ const App = () => {
       <Grid container spacing={2}>
         <Grid item xs={12}>
 
-          <Tabs value={value} onChange={handleChange} >
+          <Tabs value={value} sx={{ '& .MuiTab-root': { fontWeight: 'bold' } }} onChange={handleChange} >
             <Tab label="Overview" />
             <Tab label="Other" />
           </Tabs>
@@ -167,7 +167,7 @@ const App = () => {
         </DialogContent>
         <DialogActions>
           <Button onClick={handleCloseOverlay}>Cancel</Button>
-          <Button onClick={handleFormSubmit} color="primary">Save</Button>
+          <Button onClick={handleFormSubmit} color="primary">Done</Button>
         </DialogActions>
       </Dialog>
     </div>
